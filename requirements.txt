@@ -1,0 +1,2 @@
+fastapi==0.128.0
+hypercorn==0.18.0
