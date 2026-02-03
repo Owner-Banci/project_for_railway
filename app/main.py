@@ -16,7 +16,7 @@ def health():
 
 @app.get("/api/hello")
 def hello():
-    return {"message": "Hello from FastAPI API 👋"}
+    return {"message": "Дарова, Mikhail! 👋"}
 
 @app.get("/")
 def index():
